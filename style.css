@@ -11,16 +11,23 @@ body{
 }
 .title{
   /* background: rgb(34, 34, 34); */
-  height: 120px;
+  height: 160px;
   width: 100%; 
 }
 .title h2{
   font-size: 20px;
+  margin-top: 0;
   /* text-transform: uppercase; */
   letter-spacing: 2px;
   text-align: center;
-  color: rgb(201, 201, 201);
+  color: rgb(255, 255, 255);
   line-height: 120px;
+
+}
+.title h4{
+  margin-top: -20px;
+  line-height: 10px;
+  color: rgb(177, 177, 177);
 
 }
 .name{
